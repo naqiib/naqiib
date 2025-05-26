@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋, I'm Naqib Zakir
 
-<!--
-**naqiib/naqiib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm from Chitral, Pakistan  
+- 🎓 I'm a 5th semester Computer Science student at **Air University, Islamabad**  
+- 💼 I'm working remotely as a **Photo Editor & Client Manager** for a **foreign company**  
+- 🔭 Currently building a **MERN Stack Tourism Website** focused on Chitral  
+- 🛠️ I’m exploring **DevOps**, CI/CD pipelines, and cloud deployment  
+- 💡 My **Final Year Project** is an **Online Book Exchange Platform**, helping students buy and sell used books affordably.  
+   - 🔹 Features: account creation, store setup, book search, and exchange system  
+   - 🔧 Technologies: Blazor .NET (frontend), SQL Server (backend)  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naqib-zakir-303711183/)  
+- 🧠 Passionate about learning, building meaningful software, and solving real-world problems!
