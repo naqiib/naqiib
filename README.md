@@ -6,7 +6,7 @@
 - 🔭 Currently building a **MERN Stack Tourism Website** focused on Chitral  
    - 🌐 [Live Preview](https://chitral-tourism-git-main-naqiibs-projects.vercel.app/)  
 - 🌐 This is my **Portfolio Website**, deployed on **AWS** using a **CI/CD pipeline**  
-   - 💻 [View Portfolio](http://portfolionaqib.s3-website-us-east-1.amazonaws.com/)  
+   - 💻 [View Portfolio](http://portfolionaqeeb.s3-website-us-east-1.amazonaws.com/)  
 - 🛠️ Exploring **DevOps**, CI/CD pipelines, and cloud deployment  
 - 💡 My **Final Year Project** is an **Online Book Exchange Platform**, helping students buy and sell used books affordably  
    - 🔹 Features: account creation, store setup, book search, and exchange system  
