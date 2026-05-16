@@ -22,10 +22,6 @@ Work in progress with continuous updates
 Live:
 https://chitral-tourism-git-main-naqiibs-projects.vercel.app/
 
-🗂️ MERN Stack User Detail Project
-Live:
-https://mern-user-details-hb8xr9zpg-naqiibs-projects.vercel.app/#
-
 🛠️ Skills & Interests
 
 💡 DevOps & CI/CD Pipelines
