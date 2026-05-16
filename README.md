@@ -1,34 +1,33 @@
-# 👋 Hi there, I'm Naqib Zakir
+👋 Hi there, I'm Naqib Zakir
+🌍 I'm from Chitral, Pakistan
+🎓 BSIT 7th Semester student at Air University, Islamabad
+📜 Completed ADCS (Associate Degree in Computer Science)
+💼 Currently working remotely as a Photo Editor & Client Manager for a foreign company
+🌐 Portfolio (CI/CD Deployed)
+💻 View Portfolio
+🚀 Deployed on AWS S3 with CI/CD pipeline using GitHub Actions
+📖 Current Project
+🕌 Online Quran App (In Development)
+A modern web-based Quran application
+🔧 Work in progress with continuous improvements
+🔭 Other Projects
+🌍 MERN Stack Tourism Website (Chitral Project)
+Promoting tourism in Chitral using modern web technologies
+🌐 Live Preview
+🗂️ MERN Stack User Detail Project
+Simple full-stack app for collecting and displaying user data
+🔗 Live Demo
+🛠️ Skills & Interests
+💡 DevOps & CI/CD Pipelines
+☁️ AWS Cloud Deployment
+⚛️ React / MERN Stack Development
+🧠 Full Stack Web Development
+🎨 UI/UX & Frontend Design
+💼 Previous Work
+🎯 Remote Photo Editor & Client Manager (Foreign Company)
+🎓 Academic Final Year / Semester Projects in Web Development
+📫 Let's Connect
+🔗 LinkedIn
+🧠 About Me
 
-- 🌍 I'm from **Chitral, Pakistan**  
-- 🎓 5th semester **Computer Science** student at **Air University, Islamabad**  
-- 💼 Currently working remotely as a **Photo Editor & Client Manager** for a **foreign company**  
-- 🔭 Building a **MERN Stack Tourism Website** focused on promoting Chitral  
-  - 🌐 [Live Preview](https://chitral-tourism-git-main-naqiibs-projects.vercel.app/)  
-- 🌐 This is my **Portfolio Website**, deployed on **AWS S3** with a **CI/CD pipeline using GitHub Actions**  
-  - 💻 [View Portfolio](http://portfolionaqeeb.s3-website-us-east-1.amazonaws.com/)  
-- 🛠️ Actively exploring **DevOps**, CI/CD pipelines, and cloud deployment strategies  
-- 💡 My **Final Year Project** is an **Online Book Exchange Platform** to help students afford educational material  
-  - 🔹 **Features:** User authentication, account creation, book store setup, book search, exchange system  
-  - 🔧 **Tech Stack:** Blazor .NET (Frontend), SQL Server (Backend)
-
----
-
-## 🗂️ MERN Stack User Detail Project
-
-A simple MERN Stack project to collect and display user details as part of my full-stack development practice.
-
-- 🔗 **Live Demo:** [Visit Site](https://mern-user-details-hb8xr9zpg-naqiibs-projects.vercel.app/#)
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/naqib-zakir-303711183/)
-
----
-
-## 🧠 About Me
-
-I'm passionate about learning, building meaningful software, and solving real-world problems with technology. Always exploring new tools, frameworks, and techniques to improve and grow.
-
+Passionate about building real-world software, learning modern technologies, and growing in full-stack development & DevOps. Always exploring better ways to design, deploy, and scale applications.
